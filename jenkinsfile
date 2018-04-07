@@ -1,3 +1,5 @@
 #!groovy
 
 @Library("build-lib@master") _
+
+BuildPipeline()
